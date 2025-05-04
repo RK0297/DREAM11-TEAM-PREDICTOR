@@ -1,0 +1,6 @@
+. filter=lfs diff=lfs merge=lfs -text
+app1.py filter=lfs diff=lfs merge=lfs -text
+logs.log filter=lfs diff=lfs merge=lfs -text
+main_file_updated.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+TEST/* filter=lfs diff=lfs merge=lfs -text
