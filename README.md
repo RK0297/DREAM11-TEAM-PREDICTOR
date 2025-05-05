@@ -1,4 +1,4 @@
-# Dream11-TeamPredictor-Mac# Dream11 Team Predictor
+# Dream11 Team Predictor
 
 A machine learning-based application that predicts optimal Dream11 teams for Indian T20 League matches.
 
