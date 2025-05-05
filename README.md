@@ -52,7 +52,8 @@ This application uses machine learning to analyze player statistics and predict 
    ```
 2. Run the container:
    ```
-   docker run --rm -v ~/Downloads/SquadPlayerNames_IndianT20League.xlsx:/root/Downloads/SquadPlayerNames_IndianT20League.xlsx neuralnetninjas <match_number>
+   docker run --rm -v "${env:USERPROFILE}\Downloads\SquadPlayerNames_IndianT20League.xlsx:/app/data/SquadPlayerNames_IndianT20League.xlsx" neuralnetninjas <matchnumber>
+
    ```
 
 ## Input Data
