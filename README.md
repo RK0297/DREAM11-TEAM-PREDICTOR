@@ -1,6 +1,6 @@
 # Dream11 Team Predictor - Windows OS
 
-A machine learning-based application that predicts optimal Dream11 teams for Indian T20 League matches.
+A machine learning application designed to generate optimized Dream11 fantasy cricket teams for Indian T20 League fixtures.
 
 ## Overview
 
